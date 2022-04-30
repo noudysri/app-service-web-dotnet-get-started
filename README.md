@@ -1,5 +1,5 @@
 ---
-services: app-service\web,app-service
+services: app-service1\web,app-service
 platforms: dotnet
 author: cephalin
 ---
